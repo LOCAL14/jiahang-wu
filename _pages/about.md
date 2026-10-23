@@ -35,5 +35,3 @@ I am affiliated with the **Jiangsu Key Laboratory for Science and Applications o
 **Research interests:** Nonlinear Optical Materials · Rashba Spin Splitting · Crystal Engineering · Semiconductor Materials / Molecular Ferroelectrics.
 
 Citation metrics (Google Scholar, ~Oct 2026): ~430 citations, h-index 9. Profiles: [Google Scholar](https://scholar.google.com/citations?user=Zhlz684AAAAJ) · [ORCID](https://orcid.org/0009-0006-8599-6856).
-
-> Note: when searching my name, please distinguish from other researchers with similar romanizations (different fields / institutions).
