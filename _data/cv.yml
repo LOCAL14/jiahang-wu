@@ -1,0 +1,54 @@
+cv:
+  name: Jia-Hang Wu (吴佳航)
+  label: Ph.D. candidate · Molecular ferroelectrics & nonlinear optics
+  email: 230249190@seu.edu.cn
+  location: Nanjing, China
+  image: assets/img/prof_pic.jpg
+  summary: >
+    Ph.D. candidate at Southeast University working on molecular ferroelectrics,
+    hybrid metal / fluoroantimonite materials, nonlinear optical crystals,
+    and Rashba–Dresselhaus spin splitting for CPL detection.
+
+  social_networks:
+    - network: ORCID
+      username: 0009-0006-8599-6856
+    - network: Google Scholar
+      username: Zhlz684AAAAJ
+
+  sections:
+    Affiliation:
+      - company: Southeast University (东南大学)
+        position: Ph.D. Candidate, Jiangsu Key Laboratory for Science and Applications of Molecular Ferroelectrics
+        location: School of Chemistry and Chemical Engineering, Nanjing, China
+        start_date: ""
+        end_date: present
+        summary: Molecular ferroelectrics, NLO materials, and spintronic crystal engineering.
+        highlights:
+          - Molecular ferroelectrics
+          - Nonlinear optical (NLO) crystals / SHG
+          - Rashba–Dresselhaus spin splitting / CPL detection
+          - Crystal engineering of hybrid metal and fluoroantimonite materials
+
+    Education:
+      - institution: Southeast University (东南大学)
+        location: Nanjing, China
+        area: Chemistry and Chemical Engineering (Molecular Ferroelectrics)
+        studyType: Ph.D. (in progress; 2024 cohort)
+        start_date: 2024
+        end_date: present
+        highlights:
+          - Jiangsu Key Laboratory for Science and Applications of Molecular Ferroelectrics
+          - Exact start month TBD; bachelor/master details not yet verified for public CV
+      - institution: Fujian Institute of Research on the Structure of Matter (FJIRSM), CAS
+        location: Fuzhou, China
+        area: Structural chemistry / crystal materials (graduate research affiliation)
+        studyType: Graduate research (degree title & years TBD)
+        start_date: ""
+        end_date: "2024"
+        highlights:
+          - Co-affiliation with College of Chemistry, Fuzhou University on publications
+          - Official diploma issuing school/years pending confirmation
+
+    Research interests:
+      - name: Keywords for discovery / SEO
+        keywords: "molecular ferroelectrics, nonlinear optics, Rashba spin splitting, Dresselhaus, crystal engineering, hybrid metal halides, fluoroantimonite, second-harmonic generation, circularly polarized light detection, Southeast University, 吴佳航"

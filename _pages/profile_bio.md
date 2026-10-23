@@ -1,0 +1,1 @@
+**Jia-Hang Wu** (吴佳航) is a Ph.D. candidate at Southeast University, affiliated with the Jiangsu Key Laboratory for Science and Applications of Molecular Ferroelectrics. He works on molecular ferroelectrics, hybrid metal and fluoroantimonite materials, and nonlinear optical crystals.
