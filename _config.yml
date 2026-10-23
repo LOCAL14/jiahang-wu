@@ -11,9 +11,7 @@ contact_note: >
 description: >
   Academic homepage of Jia-Hang Wu / Jiahang Wu (吴佳航), Southeast University School of Chemistry and Chemical Engineering —
   molecular ferroelectrics, hybrid metal halides, nonlinear optical (NLO) crystals, Rashba–Dresselhaus spin splitting, and crystal engineering.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: ""
 keywords: Jia-Hang Wu, Jiahang Wu, 吴佳航, Southeast University, 东南大学, molecular ferroelectrics, 分子铁电, nonlinear optics, NLO, Rashba, Dresselhaus, crystal engineering, fluoroantimonite, SHG, CPL detection
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔬
